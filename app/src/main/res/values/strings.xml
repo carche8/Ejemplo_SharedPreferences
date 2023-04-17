@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application. Ejemplo SharedPreferences</string>
+    <string name="et1">Campo para recoger el nombre</string>
+    <string name="et2">Campo para recoger el e-mail</string>
+    <string name="et3">Campo para recoger la dirección</string>
+
+</resources>
